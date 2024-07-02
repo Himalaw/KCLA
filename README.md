@@ -7,8 +7,8 @@
 
 ## Repository Assets:
 
-- [KLCA Heuristic Notebook]() - [Full Code]()
-- [CPLEX Linear Models]()
+- [KLCA Heuristic Notebook](klca_heuristic_python) - [Full Code & Maths explanations](klca_heuristic_python/klca.ipynb)
+- [CPLEX Linear Models](linear_models_cplex)
 - [Order Datasets]()
 
 ## Business Context:
