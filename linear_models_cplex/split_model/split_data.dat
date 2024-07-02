@@ -1,0 +1,20 @@
+/*********************************************
+ * OPL 20.1.0.0 Data
+ * Author: MatthieuL
+ * Creation Date: Jul. 2, 2022 at 3:28:09 p.m.
+ *********************************************/
+
+I = 4; 					
+K = 3; 
+J = 15;					 					
+Nmax = 10;
+Nmin = 2;
+
+//O matrix was created from the data-preprocessing steps run in the Python notebook
+
+O = [
+    [1	1	1	0	1	0	0	0	1	0	0	0	0	1	1],
+    [0	0	1	0	0	0	0	0	0	0	0	0	0	1	0],
+ 	[1	1	0	1	0	1	0	1	1	1	0	1	0	1	1],
+    [1	0	0	0	0	0	0	0	0	1	0	0	1	0	1],
+	];
